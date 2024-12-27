@@ -42,15 +42,8 @@ This project demonstrates how to build and train a simple neural network using T
 ## Results
 After training for 10 epochs, the model achieves a test accuracy of approximately 98% (subject to variation due to randomness in initialization).
 
-## Sample Output
-The script displays a sample image from the test set along with the model's predicted label.
-
-## Example
-![Sample Prediction](example_prediction.png)
-
 ## References
 - [MNIST Dataset](http://yann.lecun.com/exdb/mnist/)
 - [TensorFlow Documentation](https://www.tensorflow.org/)
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+
